@@ -80,8 +80,8 @@ DATABASES = {
         'NAME': 'yashaggarwal$blogapp',
         'USER': 'yashaggarwal',
         'PASSWORD': '96877300qwerty',
-        'HOST': 'localhost',
-        'PORT': 'mysql.server',
+        'HOST': 'mysql.server',
+        'PORT': '3306',
     }
 }
 
