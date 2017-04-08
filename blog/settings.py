@@ -77,11 +77,11 @@ WSGI_APPLICATION = 'blog.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'blogapp',
-        'USER': 'root',
+        'NAME': 'yashaggarwal$blogapp',
+        'USER': 'yashaggarwal',
         'PASSWORD': '96877300qwerty',
         'HOST': 'localhost',
-        'PORT': '',
+        'PORT': 'mysql.server',
     }
 }
 
